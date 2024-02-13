@@ -16,6 +16,8 @@ I'm an Algerian front-end developer and content creator building my version of t
 <details>
  <summary><h3>👨‍💻 ibtissem's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself full-stack  development with a dream to build my own website . However, I had another desire I had been pursuing throughout this time -  content creation. i start exploring the tech world side by side during my studies where i could learn diffrnt technologies (linux, c, java ... ), and in the sam time i was trying to improve the skills of probleme solving having my dream as goal to achieve ,while discovering this journey i found that design is also one of my things i started learning ui/ix and designing my first ever product ✨TrusPy✨
+ <br/>
+[instargam ]: https ://www.instagram.com/samcodees/
 <!--
 **ibtissemLDJ/ibtissemLDJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
