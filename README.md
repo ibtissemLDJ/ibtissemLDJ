@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 🏄‍♂️ LADJICI Ibtissem 
+# 🙋🏻‍♀️LADJICI Ibtissem 
 **`tech-savvy creative  (Developer/Dsigner /Creator)`**
 I'm an Algerian front-end developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I publish  content on my Instagram  account "[samcodees][instagram]" .
 
